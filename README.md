@@ -6,11 +6,11 @@ el grupo 6 del proyecto son :<br>
 Camilo Andrés Parra Cuenca <br>
 Daniela Alexandra Herrera Aponte<br>
 Edwin Eleider Amaya <br>
-<center>
+<div align="center">
 es necesario tener la libreria de  pyodbc para funcionar la BD <br>
 y el driver self.driver = '{ODBC Driver 17 for SQL Server}'<br>
 no se utiliza credenciales de login de la bd..
 <br><br>
 para instalar el pyodbc se abre cmd o powershell <br>
 pip install pyodbc
-</center>
+</div>

@@ -26,7 +26,7 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
 
 <br>
-estas intrucciones es para ejecutar el antiguo codigo
+estas intrucciones es para ejecutar el antiguo codigo :<br>
 es necesario tener la libreria de  pyodbc para funcionar la BD <br>
 y el driver self.driver = '{ODBC Driver 17 for SQL Server}'<br>
 no se utiliza credenciales de login de la bd..
